@@ -1,17 +1,17 @@
 ---
-title: DopeTimer — Privacy Policy
+title: O5 Timer — Privacy Policy
 ---
 
-# DopeTimer — Privacy Policy
+# O5 Timer — Privacy Policy
 
 _Last updated: May 17, 2026_
 
-DopeTimer is a Garmin Connect IQ watch app that provides an on-wrist
+O5 Timer is a Garmin Connect IQ watch app that provides an on-wrist
 countdown timer for precision-rifle (PRS / NRL) stage timing.
 
 ## Summary
 
-**DopeTimer does not collect, store, transmit, or share any personal
+**O5 Timer does not collect, store, transmit, or share any personal
 data.** It runs entirely on your Garmin watch.
 
 ## What data the app accesses
@@ -43,17 +43,17 @@ Connect, the cloud, or any third party by this app.
 
 ## Network access
 
-DopeTimer does **not** request any communication permissions
+O5 Timer does **not** request any communication permissions
 (`Communications`) and makes no network requests of any kind.
 
 ## Third parties
 
-DopeTimer does not use any third-party analytics, advertising,
+O5 Timer does not use any third-party analytics, advertising,
 crash-reporting, or tracking SDKs.
 
 ## Children
 
-DopeTimer is a general-audience utility app and does not knowingly
+O5 Timer is a general-audience utility app and does not knowingly
 collect any information from anyone, including children under 13.
 
 ## Changes to this policy
@@ -65,5 +65,5 @@ latest revision.
 ## Contact
 
 Questions about this policy can be sent through the **Contact
-Developer** link on the DopeTimer listing in the Garmin Connect IQ
+Developer** link on the O5 Timer listing in the Garmin Connect IQ
 Store.

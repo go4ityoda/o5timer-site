@@ -1,6 +1,6 @@
 # dopetimer-site
 
-Public site for the **DopeTimer** Garmin Connect IQ app — hosts the
+Public site for the **O5 Timer** Garmin Connect IQ app — hosts the
 privacy policy required by the Connect IQ Store listing.
 
 Source code for the app itself lives in a separate (private) repo.

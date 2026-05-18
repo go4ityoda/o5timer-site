@@ -1,8 +1,8 @@
 ---
-title: DopeTimer
+title: O5 Timer
 ---
 
-# DopeTimer
+# O5 Timer
 
 A Garmin Connect IQ watch app for **PRS / NRL precision-rifle** stage timing.
 
